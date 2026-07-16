@@ -8,7 +8,7 @@ Built as part of an AI Proficiency Build Round to demonstrate product thinking, 
 
 ## Live Demo
 
-> Add deployment link here
+
 
 https://merchant-churn-dashboard.onrender.com
 
